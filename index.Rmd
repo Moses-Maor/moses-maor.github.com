@@ -1,30 +1,51 @@
----
-title: "moses-maor website"
-author: "moses maor"
-date: "3/7/2019"
-output: html_document
----
+## About
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+A diligent and result-driven professional with over 10 years in Telecoms Engineering, Operations,
+and RF Planning & Optimization. A manager with strong work ethics matched with consistent
+track record of excellent performance. Analytical with strong people and multi Vendor management skills.
+Outstanding record of executing mission-critical projects and initiatives on schedule and
+within budget. Excellent Analytical and communication skills to convey complex concepts, with proven ability
+to build and lead highly efficient teams. Currently coordinating RF Planning and Optimization as
+Manager in a leading Telco in Nigeria. Also experienced in Pre-sales Planning, Project Management, and Managed Services Operations.
 
-## R Markdown
+## Interests
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+** Big Data Anaysis with key interest in 
+* Technology
+* Medecine
+* Finance
+* National Development
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Projects
 
-```{r cars}
-summary(cars)
-```
+* 1. Technology - GUL
 
-## Including Plots
+    Ensure balancing of traffic between different technologies
+    Ensure the selected UTRAN & eUTRAN solutions are capacity future prove
+    Minimize the HR utilization 
 
-You can also embed plots, for example:
+* 2.Design & Monitor UTRAN and eUTRAN Interfaces -
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+    Design the UTRAN and eUTRAN interfaces based on traffic forecast
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+    Monitor the traffic gross and ensure to keep system in good utilization
+
+    Recommend cost effective solutions
+
+* 3. Capacity Planning -
+
+    Follow up with core network and transport Engineering to ensure end to end capacity planning
+    Ensure the utilization of LTE and 3G layer in efficient way
+    Understanding the HW and SW capabilities of the telecom equipment(Multi Vendor requirements)
+    Capacity plan for special events and sudden traffic increase 
+
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/engr-moses-maor)
+* [Facebook](http://facebook.com/mosedoo)
+* [twitter](http://twitter.com@MosesMaor)
+* [GitHub](http://github.com/Moses-Maor)
+
+## Contact
+
+* [moses.maor@email](mailto:moses.maor@email)
