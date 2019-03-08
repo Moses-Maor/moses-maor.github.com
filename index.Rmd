@@ -3,7 +3,7 @@
 title: "Moses-Maor's website"
 output:
   html_document:
-    theme: spacelab
+    theme: spacelab 
 ---
 
 ## About
