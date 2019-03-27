@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Moses Maor</title>
+    <link>/tags/welcome/</link>
+    <description>Recent content in Welcome on Moses Maor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {2019}</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Tue, 26 Mar 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description> Welcome This is my professional Website
+ </description>
+    </item>
+    
+  </channel>
+</rss>

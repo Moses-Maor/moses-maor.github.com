@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moses Maor</title>
+    <link>/authors/moses-maor/</link>
+    <description>Recent content on Moses Maor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {2019}</copyright>
+    
+	<atom:link href="/authors/moses-maor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>Engr Moses Maor has over 10 years’ multi-vendor (Huawei, ZTE, Ericsson and Nokia) experience in LTE/WCDMA/GSM Radio Network Planning, Optimisation, Dimensioning and Performance Engineering in Both Vendor and Operator roles. I am also experienced in Pre-Sales Planning, Project Management, and Managed Services Operations.</description>
+    </item>
+    
+  </channel>
+</rss>
